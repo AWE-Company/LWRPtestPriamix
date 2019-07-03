@@ -17,3 +17,5 @@ Cmd: compileComputeKernel
 Cmd: translateComputeKernel
   api=14 insize=11321 outsize=24633 ok=1
 Cmd: initializeCompiler
+
+Quitting shader compiler process
