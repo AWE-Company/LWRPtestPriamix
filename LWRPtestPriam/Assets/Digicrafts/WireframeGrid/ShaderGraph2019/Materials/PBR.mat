@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PBR
+  m_Shader: {fileID: 4800000, guid: b9932d308787c4aa8bf221a3d636d88d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_48A582C:
+        m_Texture: {fileID: 2800000, guid: 69e80a3255e0348c5a54526db56a2334, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BAFEDBF2:
+        m_Texture: {fileID: 2800000, guid: 32588104ea598490bae2f834e22a0e08, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture_48A582C:
+        m_Texture: {fileID: 2800000, guid: 32588104ea598490bae2f834e22a0e08, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_584EA7DE_Texture:
+        m_Texture: {fileID: 2800000, guid: 32588104ea598490bae2f834e22a0e08, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_C3BBDB8A_Texture:
+        m_Texture: {fileID: 2800000, guid: bef5b2ce96a87441083766e32de9e122, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_80E53BBC: 0
+    - Boolean_C7CDCA08: 0
+    - Vector1_22D9C5D2: 0.25
+    - Vector1_2C78857E: 0.5
+    - Vector1_717AD34A: 1
+    - Vector1_AE41B0F4: 1
+    m_Colors:
+    - Color_567C39DD: {r: 0, g: 0.8666667, b: 0.22010106, a: 0}
+    - Color_5D07721D: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 0}
+    - Color_DAAFFAB3: {r: 0.2720658, g: 0.7735849, b: 0, a: 0}
